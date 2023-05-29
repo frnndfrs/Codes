@@ -1,6 +1,6 @@
 <div align = "center"> 
    
-# Desicion making  support analysis - Instituto Tecnológico y de Estudios Superiores de Monterrey
+# Decision making  support analysis - Instituto Tecnológico y de Estudios Superiores de Monterrey
 <div align = "left"> 
 
 # Collaborative activity: Mini case 1 - Linear programming - Group 351
